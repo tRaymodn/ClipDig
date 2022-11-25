@@ -1,0 +1,64 @@
+body {
+    background: url('https://c4.wallpaperflare.com/wallpaper/8/983/735/black-4k-blue-lines-wallpaper-preview.jpg'), url('https://i.redd.it/q5d2d1hmyv861.jpg');
+    background-size: contain; 
+    background-blend-mode:hard-light;
+}
+
+#tabButton {
+    position: relative;
+    font-family: 'Gayathri', sans-serif;
+    text-align: center;
+    width: 40%;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#tabManagerButton {
+    width: 25%;
+    margin-left: 4%;
+    color: white;
+    background-color: black;
+    font-family: 'Gayathri', sans-serif;
+    text-align: center;
+}
+
+#likedClipsButton {
+    width: 25%;
+    margin-left: 7%;
+    color: white;
+    background-color: black;
+    font-family: 'Gayathri', sans-serif;
+    text-align: center;
+}
+
+#upcomingButton {
+    width: 25%;
+    margin-left: 7%;
+    color: white;
+    background-color: black;
+    font-family: 'Gayathri', sans-serif;
+    text-align: center;
+}
+
+.fresh {
+    font-family: 'Gayathri', sans-serif;
+    color: white;
+    font-size: 20px;
+    padding-left: 5%;
+}
+
+#newTabButton {
+    width: 5%;
+    height: 5%;
+    float: left;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    font-family: 'Gayathri', sans-serif;
+    text-align: center;
+    padding-right: 4%;
+    margin-right: 5%;
+}

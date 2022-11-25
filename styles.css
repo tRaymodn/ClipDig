@@ -1,0 +1,80 @@
+body {
+    background: url('https://c4.wallpaperflare.com/wallpaper/8/983/735/black-4k-blue-lines-wallpaper-preview.jpg'), url('https://i.redd.it/q5d2d1hmyv861.jpg');
+    background-size: contain; 
+    background-blend-mode:hard-light;
+}
+
+h2 {
+    text-align: center; 
+    color: rgb(214, 208, 208); 
+    font-family: 'Gayathri', sans-serif;
+}
+
+#currentClip {
+    padding-top: 60%;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 80%;
+    width: 80%;
+}
+
+#greenGlow {
+    text-align: right;
+    position:relative;
+    padding-right: 0%;
+    padding-left: 60%;
+    padding-top: 0%;
+    height: 667px;
+    width: 60%;
+}
+
+.green {
+    width: 10%;
+    height: 100%;
+    float: right;
+}
+
+.clip {
+    width: 80%;
+    display: inline-block;
+}
+
+.clipInfo {
+    width: 80%;
+    display: inline-block;
+    text-align: center;
+}
+
+#redGlow {
+    text-align: left;
+    position:relative;
+    padding-left: 0%;
+    padding-right: 40%;
+    padding-top: 0%;
+    height: 639px;
+    width: 70%;
+}
+
+.red {
+    width: 10%;
+    height: 100%;
+    float: left;
+    padding-left: 0px;
+}
+
+.menu {
+    width: 80%;
+    display: inline-block;
+}
+
+#tabButton {
+    position: relative;
+    font-family: 'Gayathri', sans-serif;
+    text-align: center;
+    width: 40%;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+}
